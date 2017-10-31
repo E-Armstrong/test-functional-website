@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/eggsaladsandwch/test-functional-website#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "node": "^8.3.0"
   }
 }
