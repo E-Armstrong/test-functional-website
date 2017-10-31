@@ -1,0 +1,19 @@
+{
+  "name": "test-functional-website",
+  "version": "1.0.0",
+  "description": "Test website w/server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggsaladsandwch/test-functional-website.git"
+  },
+  "author": "E-town",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eggsaladsandwch/test-functional-website/issues"
+  },
+  "homepage": "https://github.com/eggsaladsandwch/test-functional-website#readme"
+}
